@@ -47,6 +47,7 @@
 	<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
 </head>
 <body>
+	<?php // https://www.positronx.io/create-simple-php-crud-rest-api-with-mysql-php-pdo/ ?>
 	<div class="container-fluid p-5 bg-primary text-white text-center">
 		<h1>My First PHP API CRUD Bootstrap Page</h1>
 		<p>Resize this responsive page to see the effect!</p> 
